@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/daniel/workspace/BAG-Framework/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher_pyramid.png",
+        "source": "/home/daniel/workspace/BAG-Framework/app/src/main/res/drawable-ldpi/ic_launcher_pyramid.png"
+    },
+    {
+        "merged": "/home/daniel/workspace/BAG-Framework/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_menu_quit.png",
+        "source": "/home/daniel/workspace/BAG-Framework/app/src/main/res/drawable-ldpi/ic_menu_quit.png"
+    },
+    {
+        "merged": "/home/daniel/workspace/BAG-Framework/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon.png",
+        "source": "/home/daniel/workspace/BAG-Framework/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/home/daniel/workspace/BAG-Framework/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_menu_sound.png",
+        "source": "/home/daniel/workspace/BAG-Framework/app/src/main/res/drawable-ldpi/ic_menu_sound.png"
+    },
+    {
+        "merged": "/home/daniel/workspace/BAG-Framework/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_menu_pause.png",
+        "source": "/home/daniel/workspace/BAG-Framework/app/src/main/res/drawable-ldpi/ic_menu_pause.png"
+    },
+    {
+        "merged": "/home/daniel/workspace/BAG-Framework/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_menu_help.png",
+        "source": "/home/daniel/workspace/BAG-Framework/app/src/main/res/drawable-ldpi/ic_menu_help.png"
+    }
+]
